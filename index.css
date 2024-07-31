@@ -1,0 +1,84 @@
+
+*{
+    top: 0%;
+    margin: 0%;
+}
+.id{
+    display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  background-color:#563d7c;
+  margin: 0%;
+
+  
+ 
+}
+#tag{
+    list-style: none;
+    display: flex;
+
+ 
+   
+
+
+}
+#w1{
+margin: 0px 30px;
+font-weight: 800;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+color: white;
+}
+.main{
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.boot{
+    background-color: rgb(225, 128, 11);
+   width: 100%;
+    height: 60vh;
+    display: flex;
+ justify-content: space-between;
+
+
+  
+}
+.bo1{
+    padding: 40px;
+}
+
+
+#we{
+
+font-size: 40px;
+}
+.links{
+ margin-left: 470px;
+margin-top: -150px;
+
+}
+#hi{
+    list-style: none;
+}
+#d3{
+    font-size: larger;
+}
+.Guides{
+    margin-left: 650px;
+   margin-top: -168px;
+   
+   }
+   .Projects{
+    margin-left: 850px;
+    margin-top: -133px;
+
+   }
+   .Community{
+    margin-left: 1050px;
+    margin-top: -133px;
+    
+
+   }
